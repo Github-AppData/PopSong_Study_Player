@@ -10,7 +10,7 @@
 ### Using IDE
 * Android Studio
 
-## App UI & 기능
+### App UI & 기능
 ![PopSongStudy_UI_Image](https://user-images.githubusercontent.com/53504073/265692920-8bddf207-c5f4-4aed-8d69-49a24be3141a.PNG)
 ![PopSongStudy_UI_Image](https://user-images.githubusercontent.com/53504073/265692917-8b80560c-a5c8-4b35-b466-c6241655d256.PNG)
 ![PopSongStudy_UI_Image](https://user-images.githubusercontent.com/53504073/265692911-c51e07a5-bc85-4e52-9c7f-b1e7d0e41be5.PNG)
